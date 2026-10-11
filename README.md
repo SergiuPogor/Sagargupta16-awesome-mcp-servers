@@ -363,6 +363,7 @@ Where that JSON lives, and which extra keys it takes, differs per client -- chec
 | [Figma Context MCP](https://github.com/GLips/Figma-Context-MCP) | Figma layouts for AI coding agents (Framelink) | TypeScript |
 | [Houdini MCP](https://github.com/capoomgit/houdini-mcp) | Build and modify SideFX Houdini scenes and nodes | Python |
 | [Kleap](https://github.com/kleaphq/cli) | Official Kleap server for creating, editing and publishing websites | JavaScript |
+| [MuAPI MCP](https://github.com/SamurAIGPT/muapi-mcp-server) | Image, video and audio generation across 100+ generative AI models | Python |
 | [OrkasVideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio) | Compose, edit, analyze, and render video from coding agents | TypeScript |
 | [Photoshop MCP](https://github.com/loonghao/photoshop-python-api-mcp-server) | Adobe Photoshop automation | Python |
 | [UpRes MCP](https://github.com/auroracapital/upres-cli) | Upscale images and videos up to 8K across 14 specialist models | TypeScript |
