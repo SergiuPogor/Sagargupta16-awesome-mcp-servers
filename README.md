@@ -181,6 +181,7 @@ Where that JSON lives, and which extra keys it takes, differs per client -- chec
 | [SandBase Harness](https://github.com/sandbaseai/sandbase-harness) | Self-hosted MCP runtime with sandboxing, permissions and audit replay | TypeScript |
 | [Sentry MCP](https://github.com/getsentry/toolkit) | Official Sentry error and performance tracking | TypeScript |
 | [Serena](https://github.com/oraios/serena) | Semantic code retrieval and editing toolkit for coding agents | Python |
+| [Spinnaker MCP](https://github.com/GeiserX/spinnaker-mcp) | Operate Spinnaker applications, pipelines and executions via the Gate API | Go |
 | [Supergateway](https://github.com/supercorp-ai/supergateway) | Gateway that runs stdio MCP servers over SSE and HTTP | TypeScript |
 | [XcodeBuildMCP](https://github.com/getsentry/MobileBuildMCP) | Build, run and debug Xcode iOS and macOS projects from an agent | TypeScript |
 
