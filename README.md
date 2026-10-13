@@ -165,6 +165,7 @@ Where that JSON lives, and which extra keys it takes, differs per client -- chec
 | [Jupyter MCP](https://github.com/datalayer/jupyter-mcp-server) | Jupyter notebook cell execution | Python |
 | [Klavis](https://github.com/Klavis-AI/klavis) | Self-hostable MCP server platform with OAuth and hosted integrations | Python |
 | [kubectl MCP](https://github.com/rohitg00/kubectl-mcp-server) | Natural-language kubectl operations (CNCF listed) | Python |
+| [LynxPrompt MCP](https://github.com/GeiserX/lynxprompt-mcp) | Search and manage AI config blueprints (AGENTS.md, CLAUDE.md) on LynxPrompt | Go |
 | [MartinLoop MCP](https://github.com/Keesan12/martin-loop/tree/main/packages/mcp) | Governed agent runtime with budget caps, verifier gates and inspectable runs | TypeScript |
 | [MCP Context Forge](https://github.com/IBM/mcp-context-forge) | Official IBM MCP gateway federating MCP, A2A and REST tools | Python |
 | [mcp-proxy](https://github.com/sparfenyuk/mcp-proxy) | Bridge between Streamable HTTP and stdio MCP transports | Python |
