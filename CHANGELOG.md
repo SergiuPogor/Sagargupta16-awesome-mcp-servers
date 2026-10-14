@@ -2,6 +2,25 @@
 
 Version headings below are documentation milestones. No git tag or GitHub release has been cut for any of them yet.
 
+## [2.6.1] - 2026-10-14
+
+Acting on the monthly health report, re-measured against the API on 2026-10-14 rather than the 2026-10-01 snapshot.
+
+### Changed
+
+- LangChain MCP Adapters was archived; it moved into LangChain itself, so the entry now points at `langchain.mcp`.
+- Dynatrace MCP was archived and deprecated; the entry now points at Dynatrace's official hosted remote server.
+- Square MCP's repository went past 180 days; the entry now points at Square's official hosted server, the one its README recommends.
+
+### Removed
+
+- 11 entries over the 180-day maintenance bar with no successor: a11y MCP, DeepWiki MCP, Bifrost MCP, MetaTrader MCP, Outlook MCP, Coda MCP, Bolt, Shopify MCP, Minecraft MCP Server, kubectl MCP and MCP Security Hub. Each comes back as soon as it is pushed to again.
+- MCPDoc, archived with no successor.
+
+### Kept
+
+- All 26 entries the report listed without a recognised licence. Every one has a licence file GitHub cannot classify (`NOASSERTION`), which CONTRIBUTING.md accepts after a read by hand: the official `modelcontextprotocol` repositories, plus MIT, AGPL and Apache texts with custom headers. Axe MCP's file is a proprietary licence, which the hosted and closed-source rule now covers.
+
 ## [2.6.0] - 2026-10-14
 
 Of 43 people whose entries merged since 2026-09-01, one had starred the repository. This asks after the merge rather than making a star a condition of it.

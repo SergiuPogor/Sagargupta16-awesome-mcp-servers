@@ -150,7 +150,6 @@ Where that JSON lives, and which extra keys it takes, differs per client -- chec
 | [ast-grep MCP](https://github.com/ast-grep/ast-grep-mcp) | Structural code search and rewrite via ast-grep patterns | Python |
 | [Atlassian MCP (Jira + Confluence)](https://github.com/sooperset/mcp-atlassian) | Jira and Confluence integration | Python |
 | [Azure DevOps MCP](https://github.com/microsoft/azure-devops-mcp) | Official Azure DevOps repos, pipelines, work items and wikis | TypeScript |
-| [Bifrost MCP](https://github.com/biegehydra/BifrostMCP) | VS Code extension exposing find-usages, rename and LSP tools over MCP | TypeScript |
 | [Buildkite MCP](https://github.com/buildkite/buildkite-mcp-server) | Official Buildkite pipelines, builds, jobs and test runs | Go |
 | [Chrome DevTools MCP](https://github.com/ChromeDevTools/chrome-devtools-mcp) | Official Chrome DevTools for coding agents - debug, trace and inspect pages | TypeScript |
 | [CircleCI MCP](https://github.com/CircleCI-Public/mcp-server-circleci) | Official CircleCI workflow integration | TypeScript |
@@ -165,7 +164,6 @@ Where that JSON lives, and which extra keys it takes, differs per client -- chec
 | [Jenkins MCP Server](https://github.com/jenkinsci/mcp-server-plugin) | Official Jenkins plugin exposing jobs and builds as MCP tools | Java |
 | [Jupyter MCP](https://github.com/datalayer/jupyter-mcp-server) | Jupyter notebook cell execution | Python |
 | [Klavis](https://github.com/Klavis-AI/klavis) | Self-hostable MCP server platform with OAuth and hosted integrations | Python |
-| [kubectl MCP](https://github.com/rohitg00/kubectl-mcp-server) | Natural-language kubectl operations (CNCF listed) | Python |
 | [LynxPrompt MCP](https://github.com/GeiserX/lynxprompt-mcp) | Search and manage AI config blueprints (AGENTS.md, CLAUDE.md) on LynxPrompt | Go |
 | [MartinLoop MCP](https://github.com/Keesan12/martin-loop/tree/main/packages/mcp) | Governed agent runtime with budget caps, verifier gates and inspectable runs | TypeScript |
 | [MCP Context Forge](https://github.com/IBM/mcp-context-forge) | Official IBM MCP gateway federating MCP, A2A and REST tools | Python |
@@ -222,7 +220,6 @@ Where that JSON lives, and which extra keys it takes, differs per client -- chec
 | [Airtable MCP](https://github.com/domdomegg/airtable-mcp-server) | Airtable base read/write | TypeScript |
 | [Asana MCP](https://github.com/roychri/mcp-server-asana) | Asana tasks, projects, workspaces | TypeScript |
 | [Clera](https://www.getclera.com/mcp) | Search vetted startup candidates, review role matches and request intros | Remote |
-| [Coda MCP](https://github.com/orellazri/coda-mcp) | Coda documents and tables | TypeScript |
 | [Excel MCP](https://github.com/haris-musa/excel-mcp-server) | Read, write and format Excel workbooks without Excel installed | Python |
 | [fitlog-mcp](https://github.com/hahahahahahahahah6/fitlog-mcp) | Self-hosted MCP server giving Alexa+ a memory for training | Python |
 | [Google Calendar MCP](https://github.com/nspady/google-calendar-mcp) | Google Calendar management | TypeScript |
@@ -235,7 +232,6 @@ Where that JSON lives, and which extra keys it takes, differs per client -- chec
 | [Nextcloud MCP](https://github.com/cbcoutinho/nextcloud-mcp-server) | Nextcloud Notes, Files, Calendar, Tasks, Deck and Talk access | Python |
 | [Notion MCP](https://github.com/makenotion/notion-mcp-server) | Official Notion API integration | TypeScript |
 | [Orbit MCP](https://github.com/Noveum/orbit) | Manage issues, projects, sprints and docs with workspace-scoped OAuth | TypeScript |
-| [Outlook MCP](https://github.com/ryaker/outlook-mcp) | Outlook email and calendar via MS Graph | JavaScript |
 | [Plane MCP](https://github.com/makeplane/plane-mcp-server) | Official Plane projects, work items and cycles automation | Python |
 | [Slack MCP](https://github.com/korotovsky/slack-mcp-server) | Slack workspace integration | Go |
 | [Tale](https://github.com/tale-project/tale) | Author and run Tale automations, inspect runs and query workspace knowledge | Built-in |
@@ -248,9 +244,8 @@ Where that JSON lives, and which extra keys it takes, differs per client -- chec
 | [Apify MCP](https://github.com/apify/apify-mcp-server) | Web scraping actors and automation | TypeScript |
 | [arXiv MCP](https://github.com/blazickjp/arxiv-mcp-server) | Search arXiv papers and read full LaTeX sections | Python |
 | [Brave Search MCP](https://github.com/brave/brave-search-mcp-server) | Official Brave Search API | TypeScript |
-| [Context7 MCP](https://github.com/upstash/context7) | Up-to-date library documentation | TypeScript |
 | [Cluefinch MCP](https://github.com/cluefinch/mcp-server) | Web research with search, page reading, links, and source collection | Python |
-| [DeepWiki MCP](https://github.com/regenrek/deepwiki-mcp) | Fetch deepwiki.com repo docs as markdown | TypeScript |
+| [Context7 MCP](https://github.com/upstash/context7) | Up-to-date library documentation | TypeScript |
 | [Docling MCP](https://github.com/docling-project/docling-mcp) | Official Docling document parsing and conversion to structured text | Python |
 | [Docs MCP Server](https://github.com/arabold/docs-mcp-server) | Index and semantically search third-party library documentation | TypeScript |
 | [DuckDuckGo MCP](https://github.com/nickclyde/duckduckgo-mcp-server) | DuckDuckGo search with content fetching | Python |
@@ -258,7 +253,6 @@ Where that JSON lives, and which extra keys it takes, differs per client -- chec
 | [Kagi MCP](https://github.com/kagisearch/kagimcp) | Official Kagi search API | Python |
 | [looot](https://github.com/loootai/looot-mcp) | One key for 2,500+ data endpoints: email, phone, company, SERP, web pages | TypeScript |
 | [MarkItDown MCP](https://github.com/microsoft/markitdown/tree/main/packages/markitdown-mcp) | Convert PDF, Office, HTML and audio files to Markdown for LLMs | Python |
-| [MCPDoc](https://github.com/langchain-ai/mcpdoc) | Official LangChain server for llms.txt documentation sources | Python |
 | [Meilisearch MCP](https://github.com/meilisearch/meilisearch-mcp) | Official Meilisearch index server | Python |
 | [Perplexity MCP](https://github.com/perplexityai/modelcontextprotocol) | Official Perplexity search API | TypeScript |
 | [Ref MCP](https://github.com/ref-tools/ref-tools-mcp) | Token-efficient search over public and private technical docs | TypeScript |
@@ -305,7 +299,7 @@ Where that JSON lives, and which extra keys it takes, differs per client -- chec
 | [Groq MCP](https://github.com/groq/groq-mcp-server) | Official Groq inference, audio, and vision tools | Python |
 | [Headroom MCP](https://github.com/headroomlabs-ai/headroom) | Token-compression proxy and MCP server for tool output and logs | Python |
 | [HuggingFace MCP](https://github.com/huggingface/hf-mcp-server) | Official HF Hub models, datasets, Spaces | TypeScript |
-| [LangChain MCP Adapters](https://github.com/langchain-ai/langchain-mcp-adapters) | Official LangChain / LangGraph MCP bridge | Python |
+| [LangChain MCP](https://github.com/langchain-ai/langchain/tree/master/libs/langchain_v1/langchain/mcp) | Official MCP tool support built into LangChain as langchain.mcp | Python |
 | [Muse Bridge](https://github.com/buzhidaosm/muse-cli-bridge) | Read muse.ai identity, chats, goals, ideas and feed via local stdio MCP | Python |
 | [prompt-to-asset](https://github.com/MohamedAbdallah-14/prompt-to-asset) | Image generation across 30+ models via unified API | TypeScript |
 | [Replicate MCP](https://replicate.com/docs/reference/mcp) | Official Replicate hosted MCP server | Remote |
@@ -327,12 +321,11 @@ Where that JSON lives, and which extra keys it takes, differs per client -- chec
 | [Invoice MCP](https://github.com/theluckystrike/mcp-invoice-generator) | Create PDF invoices with VAT lines, sequential numbering and overdue tracking | JavaScript |
 | [Invompt](https://github.com/Invompt/invompt-mcp) | Create and review invoices from an AI assistant | TypeScript |
 | [Massive.com (Polygon.io) MCP](https://github.com/massive-com/mcp_massive) | Official Massive.com (formerly Polygon.io) market data for stocks and crypto | Python |
-| [MetaTrader MCP](https://github.com/ariadng/metatrader-mcp-server) | Place and manage MetaTrader 5 trades, positions and market data | Python |
 | [PayPal Agent Toolkit](https://github.com/paypal/agent-toolkit) | Official PayPal toolkit with an MCP server for payments and invoicing | TypeScript |
 | [QuickBooks MCP](https://github.com/intuit/quickbooks-online-mcp-server) | Official Intuit QuickBooks Online | TypeScript |
 | [Razorpay MCP](https://github.com/razorpay/razorpay-mcp-server) | Official Razorpay server for payments, orders, refunds and settlements | Go |
 | [SEC EDGAR MCP](https://github.com/stefanoamorelli/sec-edgar-mcp) | Query SEC EDGAR filings, XBRL financials and company facts | Python |
-| [Square MCP](https://github.com/square/square-mcp-server) | Official Square payments and commerce | TypeScript |
+| [Square MCP](https://developer.squareup.com/docs/mcp) | Official hosted Square server for payments, catalog and orders, OAuth login | Remote |
 | [Stripe MCP](https://github.com/stripe/ai) | Stripe payments and billing | TypeScript |
 | [TWZRD Agent Intel](https://smithery.ai/servers/wzrd/twzrd-agent-intel) | Solana on-chain wallet trust scoring for agents before x402 micropayments | Remote |
 | [Xero MCP](https://github.com/XeroAPI/xero-mcp-server) | Official Xero server for invoices, contacts, accounts and payroll | TypeScript |
@@ -345,7 +338,7 @@ Where that JSON lives, and which extra keys it takes, differs per client -- chec
 |--------|-------------|----------|
 | [ax](https://github.com/Necmttn/ax) | Agent session telemetry and cost analytics | TypeScript |
 | [Datadog MCP](https://github.com/winor30/mcp-server-datadog) | Datadog metrics, logs, monitors | TypeScript |
-| [Dynatrace MCP](https://github.com/dynatrace-oss/dynatrace-mcp) | Official Dynatrace observability problems, logs and traces | TypeScript |
+| [Dynatrace MCP](https://www.dynatrace.com/hub/detail/dynatrace-mcp-server/) | Official hosted Dynatrace server for problems, logs, traces and metrics | Remote |
 | [Grafana MCP](https://github.com/grafana/mcp-grafana) | Official Grafana dashboards and alerts | Go |
 | [Honeycomb MCP](https://docs.honeycomb.io/integrations/mcp/) | Official Honeycomb trace queries | Remote |
 | [Logfire MCP](https://logfire.pydantic.dev/docs/how-to-guides/mcp-server/) | Official Pydantic Logfire observability | Remote |
@@ -383,7 +376,6 @@ Where that JSON lives, and which extra keys it takes, differs per client -- chec
 
 | Server | Description | Language |
 |--------|-------------|----------|
-| [a11y MCP](https://github.com/ronantakizawa/a11ymcp) | Web accessibility / WCAG automated testing | JavaScript |
 | [Appium MCP](https://github.com/appium/appium-mcp) | Official Appium mobile app test automation | TypeScript |
 | [Axe MCP](https://github.com/dequelabs/axe-mcp-server-public) | Official Deque accessibility testing + AI remediation | TypeScript |
 | [BrowserStack MCP](https://github.com/browserstack/mcp-server) | Official BrowserStack cross-browser and device testing | TypeScript |
@@ -395,7 +387,6 @@ Where that JSON lives, and which extra keys it takes, differs per client -- chec
 |--------|-------------|----------|
 | [Binary Ninja MCP](https://github.com/fosdickio/binary_ninja_mcp) | Binary Ninja plugin for LLM-driven binary analysis | Python |
 | [Bitwarden MCP](https://github.com/bitwarden/mcp-server) | Official Bitwarden password manager | TypeScript |
-| [Bolt (MCP for Security)](https://github.com/CyberStrikeus/bolt) | SQLMap, FFUF, Nmap, Masscan and 100+ Kali tools via MCP | TypeScript |
 | [Burp AI Agent](https://github.com/six2dez/burp-ai-agent) | Burp Suite extension with MCP tooling | Kotlin |
 | [CrowdStrike Falcon MCP](https://github.com/CrowdStrike/falcon-mcp) | Official CrowdStrike Falcon threat hunting and detections | Python |
 | [Dark-Moon](https://github.com/ASCIT31/Dark-Moon) | Autonomous pentest platform for web, API, Active Directory and Kubernetes | Python |
@@ -403,7 +394,6 @@ Where that JSON lives, and which extra keys it takes, differs per client -- chec
 | [HashiCorp Vault MCP](https://github.com/hashicorp/vault-mcp-server) | Official HashiCorp Vault secrets and mounts management | Go |
 | [http-detection-agent](https://github.com/ai-blueteam/http-detection-agent) | Capability-aware HTTP attack detection over a 76-rule catalog | Rust |
 | [IDA Pro MCP](https://github.com/mrexodia/ida-pro-mcp) | IDA Pro reverse engineering assistant for LLM clients | Python |
-| [MCP Security Hub](https://github.com/FuzzingLabs/mcp-security-hub) | Offensive tools (Nmap, Ghidra, Nuclei) | Python |
 | [mcp-scan](https://github.com/snyk/agent-scan) | Scans MCP servers for tool poisoning and prompt injection | Python |
 | [radare2 MCP](https://github.com/radareorg/radare2-mcp) | Official radare2 reverse engineering stdio server | C |
 | [Semgrep MCP](https://github.com/semgrep/semgrep/tree/develop/cli/src/semgrep/mcp) | Official Semgrep static analysis for vulnerabilities | Python |
@@ -461,7 +451,6 @@ Where that JSON lives, and which extra keys it takes, differs per client -- chec
 | [eBay MCP](https://github.com/YosefHayim/ebay-mcp) | 325 tools for eBay Sell APIs | TypeScript |
 | [Packrift MCP](https://github.com/Packrift/packrift-mcp) | Packaging catalog search, pricing, inventory, and cart URLs | TypeScript |
 | [Saleor MCP](https://github.com/saleor/saleor-mcp) | Official Saleor server for products, orders, customers and channels | Python |
-| [Shopify MCP](https://github.com/GeLi2001/shopify-mcp) | Shopify API integration | TypeScript |
 
 ### Game Development
 
@@ -469,7 +458,6 @@ Where that JSON lives, and which extra keys it takes, differs per client -- chec
 |--------|-------------|----------|
 | [Cocos Creator MCP](https://github.com/FunplayAI/funplay-cocos-mcp) | Automate the Cocos Creator editor: scenes, assets, and scripts | JavaScript |
 | [Godot MCP](https://github.com/Coding-Solo/godot-mcp) | Godot game engine integration | JavaScript |
-| [Minecraft MCP Server](https://github.com/yuniko-software/minecraft-mcp-server) | Control a Minecraft bot to build, mine, and navigate in game | TypeScript |
 | [Roblox Studio MCP](https://create.roblox.com/docs/studio/mcp) | Official MCP server built into Roblox Studio | Built-in |
 | [STS2MCP](https://github.com/Gennadiyev/STS2MCP) | Read Slay the Spire 2 game state and play runs through a mod | C# |
 | [Unity MCP Server](https://github.com/AnkleBreaker-Studio/unity-mcp-server) | 268 tools for Unity Editor / Hub | JavaScript |
