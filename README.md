@@ -227,15 +227,15 @@ Where that JSON lives, and which extra keys it takes, differs per client -- chec
 | [Clera](https://www.getclera.com/mcp) | Search vetted startup candidates, review role matches and request intros | Remote |
 | [Excel MCP](https://github.com/haris-musa/excel-mcp-server) | Read, write and format Excel workbooks without Excel installed | Python |
 | [fitlog-mcp](https://github.com/hahahahahahahahah6/fitlog-mcp) | Self-hosted MCP server giving Alexa+ a memory for training | Python |
-| [Zovo Time Tracker](https://github.com/theluckystrike/mcp-servers/tree/main/servers/time-tracker) | Log hours per client and project, with daily and weekly reports and CSV export | TypeScript |
 | [Google Calendar MCP](https://github.com/nspady/google-calendar-mcp) | Google Calendar management | TypeScript |
 | [Google Workspace MCP](https://github.com/taylorwilsdon/google_workspace_mcp) | Gmail, Calendar, Docs, Sheets, Slides, Chat, Forms and Tasks in one server | Python |
 | [iMCP](https://github.com/mattt/iMCP) | Exposes macOS Messages, Contacts, Calendar and Reminders to agents | Swift |
 | [Make MCP](https://github.com/integromat/make-mcp-server) | Official Make server turning scenarios into callable agent tools | TypeScript |
-| [Muslim Prayer Reminder MCP](https://github.com/tareq7/muslim-prayer-mcp) | Calculate regional prayer times and next-prayer countdowns | TypeScript |
 | [Microsoft 365 MCP](https://github.com/Softeria/ms-365-mcp-server) | Full M365 suite (Outlook, OneDrive, Teams, Excel) | TypeScript |
 | [MindMap AI](https://github.com/MindMap-AI/mcp) | Create and edit visual mind maps from MCP-compatible AI assistants | TypeScript |
 | [monday.com MCP](https://github.com/mondaycom/mcp) | Official monday.com boards, items and workspace automation | TypeScript |
+| [Muslim Prayer Reminder MCP](https://github.com/tareq7/muslim-prayer-mcp) | Calculate regional prayer times and next-prayer countdowns | TypeScript |
+| [NeverApply](https://neverapply.co/features/mcp) | Search jobs, tailor resumes and apply to jobs with your approval over OAuth | Remote |
 | [Nextcloud MCP](https://github.com/cbcoutinho/nextcloud-mcp-server) | Nextcloud Notes, Files, Calendar, Tasks, Deck and Talk access | Python |
 | [Notion MCP](https://github.com/makenotion/notion-mcp-server) | Official Notion API integration | TypeScript |
 | [Orbit MCP](https://github.com/Noveum/orbit) | Manage issues, projects, sprints and docs with workspace-scoped OAuth | TypeScript |
@@ -244,6 +244,7 @@ Where that JSON lives, and which extra keys it takes, differs per client -- chec
 | [Tale](https://github.com/tale-project/tale) | Author and run Tale automations, inspect runs and query workspace knowledge | Built-in |
 | [Trello MCP](https://github.com/delorenj/mcp-server-trello) | Trello boards, lists, cards | TypeScript |
 | [Worklittle Jobs](https://docs.worklittle.com/mcp) | Search 4M+ jobs with visa, salary and distance filters, and apply from chat | Remote |
+| [Zovo Time Tracker](https://github.com/theluckystrike/mcp-servers/tree/main/servers/time-tracker) | Log hours per client and project, with daily and weekly reports and CSV export | TypeScript |
 
 ### Search & Knowledge
 
